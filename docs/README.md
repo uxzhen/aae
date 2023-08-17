@@ -1,14 +1,14 @@
 ---
 lang: zh-CN
-title: '[ FOXCO ] AAE'
-description: '[ FOXCO ] AAE|坦克世界亚服'
+title: '[FOXCO] AAE'
+description: '[FOXCO]AAE|坦克世界亚服'
 ---
 
-# 军团信息
+### 军团信息
 
 ![军团logo](./img/logo.png)
 
-### [FOXCO] AAE
+[//]: # (### [FOXCO] AAE)
 
 ##### 建立於：2021/12/19
 
