@@ -57,7 +57,7 @@ AAE军团每天保持12小时以上银币加成,12点到0点
 
 #### 马力懦夫卡
 
-![img_3.png](img_3.png)
+![img_3.png](img_3.png)  
 除了山头可以僵持，其他区域看见多人强行扑一定要找掩体撤退 队友会跟上防守
 ![img_4.png](img_4.png)
 
@@ -88,3 +88,6 @@ AAE军团每天保持12小时以上银币加成,12点到0点
 
 ### 源码
 [github](https://github.com/uxzhen/aae)
+
+### 框架
+[vuepress](https://v2.vuepress.vuejs.org/zh/)
