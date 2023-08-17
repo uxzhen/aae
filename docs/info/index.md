@@ -1,11 +1,11 @@
 ---
 lang: zh-CN
-title: '[FOXCO] AAE'
-description: '军团介绍'
+title: 页面的标题
+description: 页面的描述
 ---
-### 军团介绍
+### 军团信息
 
-![军团logo](./img/logo.png)
+![军团logo](../img/logo.png)
 
 ### [FOXCO] AAE
 **本军团如果满员,可以直接申请兄弟团UMALE,十级银币加成。
