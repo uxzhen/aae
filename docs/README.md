@@ -1,7 +1,7 @@
 ---
 lang: zh-CN
-title: [ FOXCO ] AAE
-description: [ FOXCO ] AAE|坦克世界亚服
+title: '[ FOXCO ] AAE'
+description: '[ FOXCO ] AAE|坦克世界亚服'
 ---
 
 # 军团信息
