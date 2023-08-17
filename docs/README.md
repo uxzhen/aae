@@ -1,7 +1,7 @@
 ---
 lang: zh-CN
-title: 页面的标题
-description: 页面的描述
+title: [ FOXCO ] AAE
+description: [ FOXCO ] AAE|坦克世界亚服
 ---
 
 # 军团信息
