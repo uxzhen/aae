@@ -23,3 +23,8 @@ npm install -D vuepress@next
 .temp
 .cache
 ```
+
+### 创建 README.md
+```
+# Hello VuePress
+```
