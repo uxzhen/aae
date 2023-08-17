@@ -35,9 +35,9 @@ https://kook.top/x706ZH
 
 [战术分享网址](https://stratsketch.com/)  
 [坦克世界服务器辅助数据](https://wgstatus.com/wot)  
-[军团数据分析](https://clantools.us/)
+[军团数据分析](https://clantools.us/)  
 [坦克世界车组模型,需要账号密码请私聊我.我买了](https://gamemodels3d.com/games/worldoftanks/)  
-[地图还有车的模型查看网页](https://wotinspector.com/zh-hans/shop)
+[地图还有车的模型查看网页](https://wotinspector.com/zh-hans/shop)  
 [地图战术攻略](https://wotguru.com/)
 
 ### 战术地图分享
